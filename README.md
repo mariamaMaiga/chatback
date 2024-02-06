@@ -1,0 +1,3 @@
+DB_PW=
+DB_USER=
+MONGO_URL=
